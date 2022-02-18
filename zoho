@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class Zoho {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Enter the input");
+		String str = scan.nextLine();
+		int len = str.length();
+		
+
+	}
+
+}
